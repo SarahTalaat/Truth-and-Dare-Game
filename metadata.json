@@ -1,0 +1,6 @@
+{
+  "name": "Playful - Truth or Dare",
+  "description": "A vibrant, mobile-first Truth or Dare game prototype with party packs, custom deck builder, and daily challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
